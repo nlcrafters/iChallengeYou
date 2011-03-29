@@ -1,0 +1,8 @@
+name: iChallengeYou
+main: nl.crafters.ichallengeyou.ChatCensor
+version: 0.101
+authors:
+- ddj
+commands:
+    icy:
+        description: Base command for this plugin
